@@ -1,0 +1,86 @@
+html{
+    height: 100%;
+
+}
+
+body {background-color: black;
+    background-image:url(images/4.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+.container{
+margin-left: auto;
+margin-right: auto;
+width: 1024px;
+
+}
+
+
+header {
+    height: 118px;  
+    text-align: center;
+
+   
+}
+
+nav {
+    background-color: rgba(0, 0, 0, 0.349);
+    height: 40px;
+    text-align: center;
+    padding-top: 14px;
+    padding-bottom: 14px;
+
+}
+
+main {
+    height: 400px;
+    text-align: center;
+    padding-top: 80px;
+    padding-left: 240px;
+    padding-right: 240px;
+
+ 
+}
+
+footer{ 
+    background-color: rgba(0, 0, 0, 0.349);
+    height: 100px;
+
+}
+h1 {
+    font-size: 50px;
+    color: white;
+    font-family:Georgia, 'Times New Roman', Times, serif, "Helvetica Neue", Helvetica, sans-serif;
+
+}
+
+p {
+    font-size: 20px;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif, "Helvetica Neue", Helvetica, sans-serif;
+
+}
+a {color: rgb(245, 234, 231);
+font-size: x-large;
+font-family: 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 12px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+footer p{
+    text-decoration: none;
+    font-size: 16px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 26px;
+    text-align: center;
+
+}
